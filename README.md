@@ -4,13 +4,9 @@
 
 ## Table of Contents 
 * [General Info](The main objective is to be able to identify Melanoma Detection)
-* [Conclusions](
-    ##### **Findings from Model 3
-     ** Accuracy of training and validation has been increased significantly due to augmentation and class imbalnce handling. The model is not overfitting. This model can be used as final model.)
-*[Technologies Used]
-* [Final Summary](
-   **Training Accuracy:** 94.12,
-   **Validation Accuracy:** 83)
+* [Conclusions](##### **Findings from Model 3 ** Accuracy of training and validation has been increased significantly due to augmentation and class imbalnce handling. The model is not overfitting. This model can be used as final model.)
+* [Technologies Used] ()
+* [Final Summary](**Training Accuracy:** 89.6, **Validation Accuracy:** 79.6)
 
 ## General Information 
 - Provide general information about your project here.
@@ -22,8 +18,8 @@
 #### **Findings from Model 3** Accuracy of training and validation has been increased significantly due to augmentation and class imbalnce handling. The model is not overfitting. 
 
 This model can be used as final model. 
-  - **Training Accuracy:** 94.12
-  - **Validation Accuracy:** 83
+  - **Training Accuracy:** 89.6
+  - **Validation Accuracy:** 79
 
 ## Technologies Used 
   - Python - version 3.10.12
@@ -33,4 +29,3 @@ This model can be used as final model.
   - Pathlib - version 1.0 
   - PIL - version 9.4.0 
   - TensorFlow - version: 2.15.0
-  -
